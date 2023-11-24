@@ -63,7 +63,7 @@ Execute the program
 
 
 # OUPUT
-![Alt text](<Screenshot 2023-11-22 100601.png>)
+![tt](https://github.com/Guru-Revanth/ODD2023-WT-Ex-03-Timetable/assets/139841931/d524432e-a8a9-49e7-8309-de325b06eec1)
 
 # result
 thus the desire time table created.
