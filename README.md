@@ -26,44 +26,35 @@ Execute the program
     <h1><center>TIMETABLE</center></h1>
     <table style="width:100%;">
     <tr>
-        <th>Reference no</th>
-        <th>23005860</th>
-        <th>Masina Sreekarsh</th>
-        
+        <th>REFERENCE NO</th>
+        <th>23004484</th>
+        <th>GURU REVANTH</th>
+        <th>TIMINGS</th>
     </tr>
 <tr>
-    <td>Days</td>
-    <td>subject code</td>
-    <td>subject</td>
-    <td>session</td>
+    <td>DAYS</td>
+    <td>SUBJECT CODE</td>
+    <td>SUBJECT NAME</td>
+    <td>SESSION</td>
 </tr>
 <tr>
-    <td>MONDAY</td>
-    <td>19cy205</td>
-    <td>principles chemistry in engineering</td>
-    <td>8.00-10.00</td>
-    
+    <td>Monday</td>
+    <td>19CY205</td>
+    <td>Principles of Chemistry in Engineering</td>
+    <td>FN 8.00-10.00</td>
 </tr>
 <tr>
-    <td>tuesday</td>
-    <td>19MA201</td>
-    <td>CALCULAS AND MATRIX ALGEBRA</td>
-    <td>10.00-12.00</td>
+    <td>Tuesday</td>
+    <td>19AI301C</td>
+    <td>Python and Linear Algebra</td>
+    <td>FN 10.00-12.00</td>
 
-</tr>
-<tr>
-    <td>wednesday</td>
-    <td>19cy205</td>
-    <td>chemistry</td>
-    <td>1.00-3.00</td>
- 
-</table>
+</tr></table>
 
 </body>
 ```
 
 # OUPUT
-![tt](https://github.com/Guru-Revanth/ODD2023-WT-Ex-03-Timetable/assets/139841931/d524432e-a8a9-49e7-8309-de325b06eec1)
-
+![Alt text](image.png)
 # result
-thus the desire time table created.
+Thus the desire time table created.
